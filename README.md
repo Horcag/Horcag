@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Horcag?tab=overview"><img align="top" width="49%" src="https://github-readme-stats.vercel.app/api?username=Horcag&amp;show_icons=true&amp;hide_rank=true&amp;hide=stars,issues&amp;show=prs_merged&amp;theme=transparent&amp;card_width=420&amp;line_height=24&amp;disable_animations=true&amp;custom_title=Public%20GitHub%20activity" alt="Public GitHub activity: commits, pull requests, merged pull requests, and contributed repositories" /></a>
-  <a href="https://github.com/Horcag?tab=repositories"><img align="top" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horcag&amp;layout=compact&amp;langs_count=8&amp;theme=transparent&amp;card_width=420&amp;disable_animations=true&amp;custom_title=Languages%20by%20code%20size" alt="Languages by code size across public repositories" /></a>
+  <a href="https://github.com/Horcag?tab=overview"><img align="top" width="49%" src="https://github-readme-stats.vercel.app/api?username=Horcag&amp;show_icons=true&amp;hide_rank=true&amp;hide=stars,issues&amp;show=prs_merged&amp;theme=github_dark&amp;card_width=420&amp;line_height=24&amp;disable_animations=true&amp;custom_title=Public%20GitHub%20activity" alt="Public GitHub activity: commits, pull requests, merged pull requests, and contributed repositories" /></a>
+  <a href="https://github.com/Horcag?tab=repositories"><img align="top" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horcag&amp;layout=compact&amp;langs_count=6&amp;theme=github_dark&amp;card_width=420&amp;disable_animations=true&amp;custom_title=Languages%20by%20code%20size" alt="Languages by code size across public repositories" /></a>
 </p>
 
 <p align="center"><sub>Public repositories · cached statistics</sub></p>
