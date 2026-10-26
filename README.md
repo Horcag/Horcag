@@ -36,7 +36,8 @@ Alongside my own projects, I contribute fixes and features to tools I use:
 
 ## Tools I work with
 
-**Languages:** Python, TypeScript, Go.  
+**Languages:** Python, TypeScript, Go.
+
 **Systems and tooling:** Linux / WSL, Windows / Hyper-V, Docker, GitHub Actions,
 pytest, MCP, and browser automation.
 
