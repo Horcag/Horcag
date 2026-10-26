@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f172a,100:155e75&amp;height=150&amp;text=Nikita%20Lebedev&amp;fontSize=42&amp;fontColor=f8fafc&amp;fontAlignY=42&amp;desc=Developer%20tools%20%C2%B7%20AI%20agents%20%C2%B7%20Automation&amp;descSize=16&amp;descAlignY=70" alt="Nikita Lebedev — Developer tools · AI agents · Automation" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f172a,100:155e75&amp;height=150&amp;text=Nikita%20Lebedev&amp;fontSize=42&amp;fontColor=f8fafc&amp;fontAlignY=42&amp;desc=Machine%20Learning%20%C2%B7%20Deep%20Learning&amp;descSize=16&amp;descAlignY=70" alt="Nikita Lebedev — Machine Learning · Deep Learning" />
 </p>
 
 <p align="center">
@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,go,docker,linux,githubactions&amp;theme=dark" height="42" alt="Python, TypeScript, Go, Docker, Linux, GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn&amp;theme=dark" height="42" alt="Python, PyTorch, scikit-learn" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/4fbcc685c9a85434bc01b1c236c9076f54806236/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter Notebook" />
+  <img src="https://skillicons.dev/icons?i=ts,go,docker,linux&amp;theme=dark" height="42" alt="TypeScript, Go, Docker, Linux" />
 </p>
 
 <p align="center">
